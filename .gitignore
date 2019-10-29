@@ -1,7 +1,4 @@
 *.retry
 *.log
-vars/*
-!vars/main.yml
-*tower_license.json
 workshops
 
